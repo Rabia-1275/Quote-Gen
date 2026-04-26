@@ -54,7 +54,7 @@ quote-generator/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/quote-generator.git
+git clone https://github.com/Rabia-1275/Quote-Gen.git
 ```
 
 ### 2. Navigate into the project folder
